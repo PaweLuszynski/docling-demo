@@ -1,0 +1,9 @@
+# Ignore the Docling output folder
+converted/
+
+# Ignore Python virtual-envs
+.venv/
+
+# Ignore OS / editor cruft
+.DS_Store
+.idea/
